@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Rashed Ali 👋
 
-<!--
-**rashed218/rashed218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | Aspiring Java Backend Developer
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Engineering student at Ondokuz Mayıs University.
+- 💻 Interested in Software Engineering and Backend Development.
+- 🌱 Currently focusing on Java Backend Development.
+
+## 🛠️ Languages & Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📚 Computer Engineering Fundamentals
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Database Management Systems
+- Systems Programming
+- Graph Theory
+- Computer Architecture
+- Digital Logic Design
+- Microprocessors
+
+## 📂 Projects
+
+### [Parfum Lab E-Commerce](https://github.com/rashed218/parfum-lab-ecommerce)
+
+A Java-based e-commerce web application developed as a university web programming project.
+
+**Technologies:** Java, Servlets, JSP, MySQL, Maven.
+
